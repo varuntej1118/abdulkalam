@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+#image{
+    height: 400px;
+    width: 300px;
+    border: 3px solid black;
+}
+.maindata{
+    text-align: center;
+}
+#name{
+    font-family: 'Poppins', sans-serif;
+}
+#date{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.sideheading{
+    font-family: 'Nunito', sans-serif;
+}
+.value{
+    font-family: 'Oxygen', sans-serif;
+
+}
