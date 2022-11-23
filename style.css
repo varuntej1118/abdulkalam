@@ -20,9 +20,11 @@ body{
 }
 #name{
     font-family: 'Poppins', sans-serif;
+    text-align: center;
 }
 #date{
     font-family: 'Noto Sans', sans-serif;
+    text-align: center;
 }
 
 .sideheading{
